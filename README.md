@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on **Flutter Developement**
 - 🌱 I’m currently learning **Node.js**
 - 👯 I’m looking to collaborate on WEB Projects
-- 🤔 I’m looking for help with API (development)
+- 🤔 I’m looking for help with Node.js (development)
 - ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
-- 😄 Pronouns: him/he
+- 😄 Pronouns: He/Him
 - 📫 How to reach me **naythithtoo000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
