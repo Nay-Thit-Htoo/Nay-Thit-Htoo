@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nay-thit-htoo&label=Profile%20views&color=0e75b6&style=flat" alt="nay-thit-htoo" /> </p>
 
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
 - 🔭 I’m currently working on **Flutter Developement**
 
 - 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **naythithtoo000@gmail.com**
-
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
