@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nay Thit Htoo</h1>
 <h3 align="center">Full Stack Developer (Web,Mobile)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nay-thit-htoo&label=Profile%20views&color=0e75b6&style=flat" alt="nay-thit-htoo" /> </p>
+<p align="left"> <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif"></p>
 
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</a>
 - 🔭 I’m currently working on **Flutter Developement**
 
 - 🌱 I’m currently learning **Node.js**
