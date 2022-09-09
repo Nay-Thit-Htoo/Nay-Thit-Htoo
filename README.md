@@ -3,7 +3,7 @@
 
 <p align="left"> <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif"></p>
 
-- 🔭 I’m currently working on **Net core web api**
+- 🔭 I’m currently working on **.Net Core Web Api**
 - 🌱 I’m currently learning **React.js**
 - 👯 I’m looking to collaborate on WEB Projects
 - 🤔 I’m looking for help with Node.js (development)
