@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nay Thit Htoo</h1>
-<h3 align="center">Full Stack Developer (Web,Mobile)</h3>
+<h3 align="center">Full Stack Developer (.Net, Flutter, React, Angular, Wordpress)</h3>
 
 <p align="left"> <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif"></p>
 
